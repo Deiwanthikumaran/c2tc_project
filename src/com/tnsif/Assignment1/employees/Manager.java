@@ -25,3 +25,4 @@ public class Manager extends Employee {
                ", Salary=" + getSalary() + ", Department=" + department + "]";
     }
 }
+
