@@ -22,4 +22,3 @@ public class Developer extends Employee {
                ", Salary=" + getSalary() + ", ProgrammingLanguage=" + programmingLanguage + "]";
     }
 }
-}
